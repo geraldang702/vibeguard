@@ -9,6 +9,5 @@
   "repository": "https://github.com/geraldang702/vibeguard",
   "license": "MIT",
   "keywords": ["security", "audit", "vulnerability", "xss", "injection", "supabase", "rls", "hardening", "vibe-coding", "secrets"],
-  "skills": "./skills/",
-  "hooks": "./hooks/hooks.json"
+  "skills": "./skills/"
 }
