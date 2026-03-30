@@ -1,7 +1,7 @@
 {
   "name": "vibeguard",
   "description": "Security auditor and hardener for vibe-coded projects. 170+ vulnerability checks across 24 categories including injection, XSS, auth bypass, IDOR, Supabase RLS, prompt injection, exposed secrets, rate limiting, CORS, auth provider misconfigs (NextAuth, Clerk, Auth.js), and vibe-coding antipatterns.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": {
     "name": "vibeguard"
   },

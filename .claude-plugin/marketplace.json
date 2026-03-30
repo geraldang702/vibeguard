@@ -7,7 +7,7 @@
     {
       "name": "vibeguard",
       "description": "Security auditor and hardener for vibe-coded projects. 170+ checks across 24 categories. Three commands: /vibeguard:audit (scan), /vibeguard:fix (patch), /vibeguard:harden (proactive). Includes pre-commit secret blocking hook.",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "source": "./"
     }
   ]
